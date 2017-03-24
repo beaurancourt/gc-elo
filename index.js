@@ -30,8 +30,7 @@ for (var i = 0; i < 10000; i++) {
       'rating': 1300,
       'games': 0,
       'gc': false,
-      'peak': 1300,
-      'swing': 0
+      'peak': 1300
     }
   );
 }
