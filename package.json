@@ -1,0 +1,33 @@
+{
+  "name": "gc-elo",
+  "version": "1.0.0",
+  "description": "simulate grand champ titles",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beaushinkle/gc-elo.git"
+  },
+  "keywords": [
+    "rocket-league",
+    "grand-champ"
+  ],
+  "author": "Beau Shinkle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beaushinkle/gc-elo/issues"
+  },
+  "homepage": "https://github.com/beaushinkle/gc-elo#readme"
+}
